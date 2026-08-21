@@ -20,7 +20,7 @@ class Solution:
             for i in range(n):
                 if mask & (1 << i):
                     bits += 1
-                    l = l // gcd(l, coins[i]) * coins[i]
+                    l = (l * coins[i]) // gcd(l, coins[i])
 
             subs.append((l, bits))
 

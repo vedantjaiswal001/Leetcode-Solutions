@@ -20,9 +20,7 @@ class Solution:
                 k=k+1
                 if k==len(ans[-1]):
                     z.append(1)
-            a=z.copy()
-            ans.append(a)
-            z.clear()
+            ans.append(z)
             sumi=0
         
         return ans    

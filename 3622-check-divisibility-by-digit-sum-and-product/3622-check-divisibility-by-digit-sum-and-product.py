@@ -5,9 +5,8 @@ class Solution:
         pro=1
         y=str(n)
         for i in x:
-            a=int(i)
-            sumi=sumi+a
-            pro=pro*a
+            sumi=sumi+int(i)
+            pro=pro*int(i)
         sumi=sumi+pro
         if n%sumi==0:
             return True

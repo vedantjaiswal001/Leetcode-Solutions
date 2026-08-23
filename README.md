@@ -46,6 +46,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1927-sum-game) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [1927-sum-game](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
@@ -85,8 +87,13 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
+| [1927-sum-game](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->

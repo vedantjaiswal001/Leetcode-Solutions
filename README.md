@@ -92,6 +92,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [1927-sum-game](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -114,4 +115,8 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+## Sliding Window
+|  |
+| ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 <!---LeetCode Topics End-->

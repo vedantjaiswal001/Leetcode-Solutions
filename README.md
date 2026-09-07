@@ -104,6 +104,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 | ------- |
 | [0006-zigzag-conversion](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0115-distinct-subsequences](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -113,6 +114,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 | ------- |
 | [0115-distinct-subsequences](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0940-distinct-subsequences-ii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 ## Game Theory
 |  |

@@ -41,6 +41,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -86,6 +87,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -121,6 +123,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 | [0118-pascals-triangle](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Game Theory
 |  |
 | ------- |
@@ -166,6 +169,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Tree
 |  |
 | ------- |

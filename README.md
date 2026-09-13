@@ -35,6 +35,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
+| [0835-image-overlap](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1386-cinema-seat-allocation](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1872-stone-game-viii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -182,4 +183,8 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->

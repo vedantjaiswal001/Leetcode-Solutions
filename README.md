@@ -138,6 +138,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 | [0006-zigzag-conversion](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0020-valid-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -155,6 +156,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0940-distinct-subsequences-ii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -247,6 +249,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -263,6 +266,7 @@ My solutions to LeetCode problems, by **Vedant Jaiswal**.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/vedantjaiswal001/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

@@ -1,55 +1,50 @@
 class Solution:
     def removeInvalidParentheses(self, s: str):
-        left_remove = 0
-        right_remove = 0
+        left = right = 0
 
-        for ch in s:
-            if ch == '(':
-                left_remove += 1
-            elif ch == ')':
-                if left_remove > 0:
-                    left_remove -= 1
+        for c in s:
+            if c == '(':
+                left += 1
+            elif c == ')':
+                if left:
+                    left -= 1
                 else:
-                    right_remove += 1
+                    right += 1
 
-        result = set()
+        ans = []
 
-        def dfs(index, left, right, balance, path):
+        def dfs(i, l, r, balance, path):
             if balance < 0:
                 return
 
-            if left < 0 or right < 0:
+            if i == len(s):
+                if l == 0 and r == 0 and balance == 0:
+                    ans.append(''.join(path))
                 return
 
-            if index == len(s):
-                if balance == 0 and left == 0 and right == 0:
-                    result.add("".join(path))
-                return
+            c = s[i]
 
-            ch = s[index]
+            if c == '(':
+                if l > 0:
+                    dfs(i + 1, l - 1, r, balance, path)
 
-            if ch == '(':
-                if left > 0:
-                    dfs(index + 1, left - 1, right, balance, path)
-
-                path.append(ch)
-                dfs(index + 1, left, right, balance + 1, path)
+                path.append(c)
+                dfs(i + 1, l, r, balance + 1, path)
                 path.pop()
 
-            elif ch == ')':
-                if right > 0:
-                    dfs(index + 1, left, right - 1, balance, path)
+            elif c == ')':
+                if r > 0:
+                    dfs(i + 1, l, r - 1, balance, path)
 
                 if balance > 0:
-                    path.append(ch)
-                    dfs(index + 1, left, right, balance - 1, path)
+                    path.append(c)
+                    dfs(i + 1, l, r, balance - 1, path)
                     path.pop()
 
             else:
-                path.append(ch)
-                dfs(index + 1, left, right, balance, path)
+                path.append(c)
+                dfs(i + 1, l, r, balance, path)
                 path.pop()
 
-        dfs(0, left_remove, right_remove, 0, [])
-
-        return list(result)
+        dfs(0, left, right, 0, [])
+        return list(set(ans))
